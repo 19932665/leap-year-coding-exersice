@@ -1,7 +1,3 @@
-# Write your code below
-a=input("type in a two digit number")
-digit1=("two_digit_number"[5])
-digit2=("two_digit_number"[6])
-print(int(digit1) + int(digit2))
-
-      
+print("Day_1 python print function")
+print("The function is declared like this")
+print("print('what to print')")
